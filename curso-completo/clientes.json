@@ -1,0 +1,7 @@
+{"id":1, "date_order": "2021-01-23", "customer": "Carlos", "product": "TV", "unit": 5, "price": 238.00}
+{"id":2, "date_order": "2021-03-22", "customer": "Ana", "product": "AR-CONDICIONADO", "unit": 6, "price": 121.60}
+{"id":3, "date_order": "2021-04-21", "customer": "Sofia", "product": "FREEZER", "unit": 7, "price": 415.40}
+{"id":4, "date_order": "2021-04-23", "customer": "Sandra", "product": "TV", "unit": 8, "price": 313.00}
+{"id":5, "date_order": "2021-05-23", "customer": "Tereza", "product": "FRIGOBAR", "unit": 3, "price": 412.00}
+{"id":6, "date_order": "2021-06-25", "customer": "Carla", "product": "MESA", "unit": 1, "price": 124.00}
+{"id":7, "date_order": "2021-07-25", "customer": "Sofia", "product": "CADEIRA", "unit": 1, "price": 342.30}
